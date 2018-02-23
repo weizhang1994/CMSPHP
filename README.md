@@ -1,1 +1,3 @@
-A CMS system wrote with php, html , css, javascript and jquery. 
+A CMS project, bloging system built with php, mysql, followed instructions from Udemy Edwin Diaz's Online Course
+Build Categories, Posts, Comments, Users features and accociated mysql database tables.
+Duild login, user registrtion, user profiles, dashboard
